@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/excel"/>
+    <qresource prefix="/">
+        <file>excel/考勤表示例.xlsx</file>
+    </qresource>
+</RCC>
